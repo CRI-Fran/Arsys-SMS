@@ -20,7 +20,7 @@
  * $msgOut['credit']      = $testsms->getCredit();
  *
  */
-namespace arsysSMS;
+namespace ArsysSMS;
 
 
 // V3.0 Incluye remite y Eventos programados
